@@ -1,0 +1,3 @@
+-r app.in
+-r tests.in
+-r docs.in

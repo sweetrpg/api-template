@@ -1,2 +1,3 @@
-# sweetrpg-profiles-api
-User profile information
+# api-template
+
+Template repository for SweetRPG API applications
