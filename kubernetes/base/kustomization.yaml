@@ -12,3 +12,13 @@ secretGenerator:
       type: Opaque
       envs:
           - secrets.env
+
+commonLabels:
+    app: PACKAGE-COMPONENT
+    version: v1
+    platform: sweetrpg
+    package: PACKAGE
+    component: COMPONENT
+
+generatorOptions:
+    disableNameSuffixHash: true
